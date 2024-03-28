@@ -1,9 +1,10 @@
 {
   "name": "rz91-project-atm-machine",
-  "version": "1.0.0",
+  "version": "2.0.4",
   "description": "This is l made Atm machine that can withdraw money",
   "main": "index.js",
   "type": "module",
+  "bin": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
